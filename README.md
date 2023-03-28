@@ -1,5 +1,5 @@
 # Login-Page
-*Made by Bamboothesecond
+Made by Bamboothesecond
 
 ## Description
 
