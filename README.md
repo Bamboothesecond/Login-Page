@@ -1,7 +1,5 @@
 # Login-Page
-*By Bamboothesecond
-#!/usr/bin/env python3
-
+*Made by Bamboothesecond
 
 ## Description
 
