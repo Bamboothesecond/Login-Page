@@ -3,7 +3,7 @@
 #!/usr/bin/env python3
 
 
-## Add your code here
+## Description
 
 This code provides a simple login page with a graphical user interface (GUI) built with the tkinter module. Additionally, it uses the Pygame and shelve modules to implement features like playing sound effects and storing user credentials.
 
