@@ -2,14 +2,8 @@
 *By Bamboothesecond
 #!/usr/bin/env python3
 
-"""
-MIT License Header
--------------------
 
-This code is for personal use only and should not be distributed without my permission.
-"""
-
-# Add your code here
+## Add your code here
 
 This code provides a simple login page with a graphical user interface (GUI) built with the tkinter module. Additionally, it uses the Pygame and shelve modules to implement features like playing sound effects and storing user credentials.
 
@@ -26,3 +20,6 @@ The login method is called when the user clicks the login button. It retrieves t
 The register method is called when the user clicks the register link. It creates a new window for registration and hides the current login window.
 
 Overall, this code creates a simple GUI login page with login and registration functionality. Please note that this script is not intended for distribution, especially without permission from the author.
+
+### About
+This code is for personal use only.
